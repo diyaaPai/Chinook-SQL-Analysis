@@ -114,15 +114,14 @@ The analysis answers the following questions:
 
 ## Project Structure
 
-
-
 ```text
-
 Chinook-SQL-Analysis/
-
 │
-
-├── chinook\_analysis.sql
-
-└── README.md
-
+├── chinook_analysis.sql
+├── README.md
+└── screenshots/
+    ├── q1_genre_revenue.png
+    ├── q2_artist_revenue.png
+    ├── q3_top_customers.png
+    ├── q4_monthly_revenue.png
+    └── q8_monthly_revenue_lag.png
